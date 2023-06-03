@@ -1,7 +1,3 @@
-.item {
-color: greenyellow;  
-}
-
-.content img {
-  width: 600px;
+.postBlock {
+  padding: 10px;
 }
